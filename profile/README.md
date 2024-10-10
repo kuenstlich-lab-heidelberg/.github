@@ -1,5 +1,6 @@
 # Künstlich Lab Heidelberg
 > *Where human creativity and artificial intelligence converge to inspire and educate*
+
 <p align="center">
   <img src="url_to_image_1" alt="Image 1" width="400"/>
   <img src="url_to_image_2" alt="Image 2" width="400"/>
@@ -8,6 +9,7 @@
   <img src="url_to_image_1" alt="Image 1" width="400"/>
   <img src="url_to_image_2" alt="Image 2" width="400"/>
 </p>
+
 ## Mission Statement 
 Künstlich Lab Heidelberg is intended as a collaborative space where human creativity and artificial intelligence intersect to inspire, educate, and innovate with the help of art. We plan an open space where artists and (technical) domain experts come together to collaborate, explore, and visualize the future. Through art, we communicate both the groundbreaking opportunities and the challenges that AI presents for human mankind. Our goal is to foster a deeper understanding of rapidly evolving technologies, sparking innovation and inspiring thoughtful dialogue about the future of our society.
 ## Motivation
