@@ -2,12 +2,12 @@
 > *Where human creativity and artificial intelligence converge to inspire and educate*
 
 <p align="center">
-  <img src="url_to_image_1" alt="Image 1" width="400"/>
-  <img src="url_to_image_2" alt="Image 2" width="400"/>
+  <img src="./img/caterpillar.jpg" alt="Image 1" width="400"/>
+  <img src="./img/plato.jpg" alt="Image 2" width="387"/>
 </p>
 <p align="center">
-  <img src="url_to_image_1" alt="Image 1" width="400"/>
-  <img src="url_to_image_2" alt="Image 2" width="400"/>
+  <img src="./img/novel.jpg" alt="Image 1" width="210"/>
+  <img src="./img/piano.jpg" alt="Image 2" width="574"/>
 </p>
 
 ## Mission Statement 
